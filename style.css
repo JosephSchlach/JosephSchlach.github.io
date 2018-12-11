@@ -15,6 +15,10 @@ h1{
   color: #7c7c7c
 }
 
+.body{
+  width: 720px
+}
+
 h4{
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
