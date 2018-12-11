@@ -2,6 +2,11 @@ body{
   margin:0
 }
 
+.hero{
+  /* sizing */
+  width: 100w;
+  height: 100vh;
+}
 
 h1{
   font-size: 50px;
