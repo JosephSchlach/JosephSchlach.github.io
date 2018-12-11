@@ -41,16 +41,19 @@ body{
 h2{
  font-size: 35px;
  font-family: 'Roboto', sans-serif;
+ color: #292929;
 }
 
 h3{
 font-size: 25px;
 font-family: 'Roboto', sans-serif;
+color: #292929;
 }
 
 p{
  font-size: 15px;
  font-family: 'Source Sans Pro', sans-serif;
  max-width: 720px
+ color: #292929;
 }
 
