@@ -1,12 +1,3 @@
-.hero-image{
-  width: 100%
-  background-image: url("https://josephschlach.github.io/LAKE.jpg");
-  height: 50%
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
 
 h1{
   font-size: 50px;
@@ -15,10 +6,6 @@ h1{
   color: #7c7c7c
 }
 
-.body{
-  width: 720px
-  center
-}
 
 h4{
   font-size: 15px;
@@ -40,5 +27,6 @@ font-family: 'Roboto', sans-serif;
 p{
  font-size: 15px;
  font-family: 'Source Sans Pro', sans-serif;
+ max-width: 720px
 }
 
