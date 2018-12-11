@@ -24,6 +24,7 @@ body{
   font-size: 50px;
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
+  text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
   margin-top: 0;
   margin-bottom: 15px;
 }
@@ -31,7 +32,8 @@ body{
 .hero h4{
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
-  color: #ffffff
+  color: #ffffff;
+  text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
 }
 
 
