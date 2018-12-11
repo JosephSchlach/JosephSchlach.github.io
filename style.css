@@ -2,6 +2,8 @@ body{
   margin: 0;
 }
 
+
+
 .hero{
   width: 100vw;
   height: 100vh;
@@ -20,12 +22,13 @@ hero h1{
   margin-bottom: 15px;
 }
 
-
 hero h4{
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
   color: #7c7c7c
 }
+
+
 
 h2{
  font-size: 35px;
