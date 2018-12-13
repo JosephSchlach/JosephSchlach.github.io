@@ -37,11 +37,10 @@ body{
 }
 
 
-.copy{
-  display: block;
-  justify-content: center;
-  align-items: left;
-  text-align: left;
+.center{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
 
 h2{
